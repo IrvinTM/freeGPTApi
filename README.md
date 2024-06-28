@@ -4,11 +4,11 @@ This API is designed to receive a message array in a POST request and generate a
 
 ## API Usage
 
-```JSON
+```txt
 Method: POST
 Headers:Content-Type: application/json (required)
 ```
-```JSON
+```txt
 Body:
 ```
 
