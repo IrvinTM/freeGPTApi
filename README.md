@@ -1,4 +1,4 @@
-## API for Chat Completion
+## API for Chat Completion using Spring Boot
 
 This API is designed to receive a message array in a POST request and generate a response implementing a free provider.
 
