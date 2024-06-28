@@ -8,11 +8,9 @@ This API is designed to receive a message array in a POST request and generate a
 Method: POST
 Headers:Content-Type: application/json (required)
 ```
-```txt
-Body:
-```
 
 ```JSON
+Body:
 {
   "messages": [
     { "role": "user", "content": "message 1" },
